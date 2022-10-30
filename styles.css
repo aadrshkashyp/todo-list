@@ -11,4 +11,13 @@ body{
 
 .navbar .navbar-nav {
     margin-left: 55rem;
+ }
+ 
+.listimg{
+    width: 55px;
+    height: 50px;
+}
+
+.modal-body{
+    border-radius: 10px;
 }
