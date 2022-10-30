@@ -1,4 +1,4 @@
-# To - Do list
+# todo-list
 
 A dynamic and aesthetic to do list website built using HTML, CSS and Vanilla JavaScript
 
