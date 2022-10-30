@@ -9,3 +9,6 @@ body{
     background-color: #ebf2ff ;
 }
 
+.navbar .navbar-nav {
+    margin-left: 55rem;
+}
