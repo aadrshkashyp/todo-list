@@ -1,4 +1,5 @@
-# todo-list
+# Todo-list
+
 
 A dynamic and aesthetic to do list website built using HTML, CSS and Vanilla JavaScript
 
@@ -34,3 +35,7 @@ All contributors are most welcome! This is definitely open source!
 ![image](https://user-images.githubusercontent.com/85991489/198876475-8cd19d19-d0bb-4260-ac82-f45e9d2321bd.png)
 ![image](https://user-images.githubusercontent.com/85991489/198876504-83a33cf7-df15-4533-8e77-d0c207e5e162.png)
 ![image](https://user-images.githubusercontent.com/85991489/198876518-2a3df731-ccbc-488a-873a-342a6e70fc7c.png)
+
+# Rules
+All the contributor need to comment the meaningful description and a screen shot so that so its easy for us to get actual knowledge about the PRs.
+
